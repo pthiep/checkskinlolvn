@@ -1,0 +1,19 @@
+/lol-collections/v1/inventories/17116715/summoner-icon
+/lol-clubs/v1/clubs
+/lol-platform-config/v1/namespace
+/lol-collections/v1/inventories/17116715/rune-book
+/lol-collections/v1/inventories/17116715/mastery-book
+/lol-collections/v1/inventories/17116715/ward-skins
+
+/lol-collections/v1/inventories/"+n+"/runes // so luong ngoc cua moi  Acc
+
+
+
+
+/lol-kudos/v1/kudos/17116715
+/lol-loyalty/v1/status-notification
+
+/lol-ranked-stats/v1/stats/17116715
+
+/lol-collections/v1/inventories/17116715/backdrop
+/lol-collections/v1/inventories/17116715/champion-mastery/top?limit=3

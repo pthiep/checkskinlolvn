@@ -1,0 +1,109 @@
+﻿<Controls:MetroWindow  x:Class="CheckSkinLOL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckSkinLOL"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="CHECKSKINLOL" Height="720" Width="1280" 
+        BorderBrush="{DynamicResource AccentColorBrush}"
+        BorderThickness="1"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Controls:MetroWindow.Background>
+        <ImageBrush ImageSource="Images\background.png"/>
+    </Controls:MetroWindow.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Button x:Name="button" Content="Reload" HorizontalAlignment="Left" Margin="20,18,0,0" VerticalAlignment="Top" Width="61" Height="37" Click="button_Click"/>
+
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Height="655" Margin="0,32,0,0" VerticalAlignment="Top" Width="1278" RenderTransformOrigin="0.5,0.5" TabStripPlacement="Top" Foreground="{x:Null}" Background="Transparent">
+            <TabItem Header="General" Margin="116,-15,-116,15" Background="Transparent">
+                <Grid Background="Transparent"/>
+            </TabItem>
+
+            <TabItem Header="Champions" Margin="125,-15,-125,15" Background="Transparent">
+                <Grid Background="Transparent">
+                    <Image x:Name="img_RingNumChamp" Height="160" Width="160" Margin="37,84,0,0" Source="Images/ring.png" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+                    <ListView x:Name="ViewChamp" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="238,10,10,10" Height="590" Width="1024" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="7" HorizontalAlignment="Center"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Background="Transparent" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                    <Image Source="{Binding ImageData}" Height="150" Width="120" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Uniform" />
+                                    <TextBlock Text="{Binding Title}" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                    <Label x:Name="lbl_NumsChamp" Content="0" HorizontalAlignment="Left" Margin="37,112,0,0" VerticalAlignment="Top" FontSize="60" Width="160" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Label Content="Champion Number" HorizontalAlignment="Left" Margin="5,30,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Skins" Margin="139,-15,-139,15" Background="Transparent">
+                <Grid Background="Transparent">
+                    <Image x:Name="img_RingNumSkin" Height="160" Width="160" Margin="37,84,0,0" Source="Images/ring.png" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+                    <ListView x:Name="ViewSkin" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="238,10,10,10" Height="590" Width="1024" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="6" HorizontalAlignment="Center"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Background="Transparent" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                    <Image Source="{Binding ImageData}" Height="210" Width="156" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Uniform" />
+                                    <TextBlock Text="{Binding Title}" Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <Label x:Name="lbl_Numskin" Content="0" HorizontalAlignment="Left" Margin="69,112,0,0" VerticalAlignment="Top" FontSize="60" Width="95" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Label Content="Skins Number" HorizontalAlignment="Left" Margin="33,30,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Setting" Margin="152,-15,-152,15" Background="Transparent">
+                <Grid Background="Transparent">
+                    <TextBox x:Name="txtBox_Path" HorizontalAlignment="Left" Height="23" Margin="357,151,0,0" TextWrapping="Wrap" Text="C:\Riots\Leagea of legend\Game Client" VerticalAlignment="Top" Width="572"/>
+                    <Button x:Name="btn_Browers" Content="Browser" HorizontalAlignment="Left" Margin="955,150,0,0" VerticalAlignment="Top" Width="75" Click="btn_Browers_Click"/>
+                    <Image x:Name="img_CheckPath" HorizontalAlignment="Left" Height="14" Margin="316,208,0,0" VerticalAlignment="Top" Width="15" Source="Images/notok.png"/>
+                    <Label x:Name="txt_Path" Content="LOL Path:" HorizontalAlignment="Left" Margin="272,150,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="txt_StatePath" Content="Check Path" HorizontalAlignment="Left" Margin="357,208,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Preminum" Margin="149,-15,-149,15" Background="Transparent">
+                <Grid Background="Transparent">
+                    <Button Content="Export" HorizontalAlignment="Left" Margin="567,265,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click_1"/>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+
+        <Canvas x:Name="canv_Profile" HorizontalAlignment="Left" Height="86" Margin="901,0,0,0" VerticalAlignment="Top" Width="371">
+            <Ellipse x:Name="img_IconProfile" HorizontalAlignment="Left" Height="60" Stroke="SandyBrown" StrokeThickness="2" VerticalAlignment="Top" Width="60" Canvas.Left="55" Canvas.Top="10"/>
+        </Canvas>
+
+        <Label x:Name="lbl_name" Content="" FontSize="15" HorizontalAlignment="Left" Margin="1025,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="IP:" HorizontalAlignment="Left" Margin="718,22,0,0" VerticalAlignment="Top" Height="34" Width="31" FontSize="18"/>
+        <Label Content="RP:" HorizontalAlignment="Left" Margin="834,22,0,0" VerticalAlignment="Top" Height="34" Width="36" FontSize="18"/>
+        <Label x:Name="lbl_ip" Content="0" HorizontalAlignment="Left" Margin="754,23,0,0" VerticalAlignment="Top" Height="34" Width="81" FontSize="18"/>
+        <Label x:Name="lbl_rp" Content="0" HorizontalAlignment="Left" Margin="870,22,0,0" VerticalAlignment="Top" Height="34" Width="62" FontSize="18"/>
+
+    </Grid>
+</Controls:MetroWindow >

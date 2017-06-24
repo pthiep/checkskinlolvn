@@ -1,0 +1,7454 @@
+﻿[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5007.png",
+    "colors": [
+      "#aa0000",
+      "#2956be"
+    ],
+    "disabled": false,
+    "id": 5007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5008.png",
+    "colors": [
+      "#88c162",
+      "#beb22e"
+    ],
+    "disabled": false,
+    "id": 5008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5009.png",
+    "colors": [
+      "#d4b124",
+      "#9098b1"
+    ],
+    "disabled": false,
+    "id": 5009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5010.png",
+    "colors": [
+      "#29b8d8",
+      "#9f4a28"
+    ],
+    "disabled": false,
+    "id": 5010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5011.png",
+    "colors": [
+      "#aa007f",
+      "#aa8b0d"
+    ],
+    "disabled": false,
+    "id": 5011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5012.png",
+    "colors": [
+      "#55aaff",
+      "#ddfffd"
+    ],
+    "disabled": false,
+    "id": 5012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5014.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 5014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5015.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 5015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5016.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 5016,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5017.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 5017,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5018.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 5018,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 5,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/5/5019.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 5019,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7006.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 7006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7007.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 7007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7008.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 7008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7009.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 7009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7010.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 7010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 7,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/7/7011.png",
+    "colors": [
+      "#73bfbe",
+      "#000000"
+    ],
+    "disabled": false,
+    "id": 7011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 11,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11006.png",
+    "colors": [
+      "#fed24d",
+      "#d48f3b"
+    ],
+    "disabled": false,
+    "id": 11006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 11,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11007.png",
+    "colors": [
+      "#76e7f5",
+      "#dbad38"
+    ],
+    "disabled": false,
+    "id": 11007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 11,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/11/11008.png",
+    "colors": [
+      "#993045",
+      "#ac6a64"
+    ],
+    "disabled": false,
+    "id": 11008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12011.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 12011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12012.png",
+    "colors": [
+      "#b6e084",
+      "#b6e084"
+    ],
+    "disabled": false,
+    "id": 12012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12013.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 12013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12014.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 12014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12015.png",
+    "colors": [
+      "#9f4a25",
+      "#9f4a25"
+    ],
+    "disabled": false,
+    "id": 12015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12016.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 12016,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12017.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 12017,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 12,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/12/12018.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 12018,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 17,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17009.png",
+    "colors": [
+      "#73c2da",
+      "#73c2da"
+    ],
+    "disabled": false,
+    "id": 17009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 17,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17010.png",
+    "colors": [
+      "#ff95ec",
+      "#ff95ec"
+    ],
+    "disabled": false,
+    "id": 17010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 17,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17011.png",
+    "colors": [
+      "#1d1a2a",
+      "#1d1a2a"
+    ],
+    "disabled": false,
+    "id": 17011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 17,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17012.png",
+    "colors": [
+      "#96f4b9",
+      "#96f4b9"
+    ],
+    "disabled": false,
+    "id": 17012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 17,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/17/17013.png",
+    "colors": [
+      "#5f52bd",
+      "#5f52bd"
+    ],
+    "disabled": false,
+    "id": 17013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 18,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/18/18007.png",
+    "colors": [
+      "#1c3b63",
+      "#5c66bc"
+    ],
+    "disabled": false,
+    "id": 18007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 18,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/18/18008.png",
+    "colors": [
+      "#b82386",
+      "#4e9da7"
+    ],
+    "disabled": false,
+    "id": 18008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 18,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/18/18009.png",
+    "colors": [
+      "#a53231",
+      "#b5a57c"
+    ],
+    "disabled": false,
+    "id": 18009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 21,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21010.png",
+    "colors": [
+      "#aaffff",
+      "#ff55ff"
+    ],
+    "disabled": false,
+    "id": 21010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 21,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21011.png",
+    "colors": [
+      "#592ab5",
+      "#6fcad4"
+    ],
+    "disabled": false,
+    "id": 21011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 21,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21012.png",
+    "colors": [
+      "#bc7e11",
+      "#2298ca"
+    ],
+    "disabled": false,
+    "id": 21012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 21,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21013.png",
+    "colors": [
+      "#bddf5d",
+      "#ca37be"
+    ],
+    "disabled": false,
+    "id": 21013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 21,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/21/21014.png",
+    "colors": [
+      "#b51717",
+      "#222dc8"
+    ],
+    "disabled": false,
+    "id": 21014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 25,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25007.png",
+    "colors": [
+      "#559865",
+      "#3a4c34"
+    ],
+    "disabled": false,
+    "id": 25007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 25,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25008.png",
+    "colors": [
+      "#cfc576",
+      "#5d738a"
+    ],
+    "disabled": false,
+    "id": 25008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 25,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/25/25009.png",
+    "colors": [
+      "#647387",
+      "#2a344a"
+    ],
+    "disabled": false,
+    "id": 25009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 267,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267004.png",
+    "colors": [
+      "#cf8730",
+      "#3b899a"
+    ],
+    "disabled": false,
+    "id": 267004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": true,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 1473996299000,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 267,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267005.png",
+    "colors": [
+      "#5c8694",
+      "#743449"
+    ],
+    "disabled": false,
+    "id": 267005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 267,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/267/267006.png",
+    "colors": [
+      "#8a397b",
+      "#18214a"
+    ],
+    "disabled": false,
+    "id": 267006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 24,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24009.png",
+    "colors": [
+      "#e2d495",
+      "#821434"
+    ],
+    "disabled": false,
+    "id": 24009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 24,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24010.png",
+    "colors": [
+      "#d8a100",
+      "#282b20"
+    ],
+    "disabled": false,
+    "id": 24010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 24,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/24/24011.png",
+    "colors": [
+      "#9a2d43",
+      "#2f2b39"
+    ],
+    "disabled": false,
+    "id": 24011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 30,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30006.png",
+    "colors": [
+      "#830e23",
+      "#462336"
+    ],
+    "disabled": false,
+    "id": 30006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 30,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30007.png",
+    "colors": [
+      "#4a2752",
+      "#463a2c"
+    ],
+    "disabled": false,
+    "id": 30007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 30,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/30/30008.png",
+    "colors": [
+      "#1f566c",
+      "#373348"
+    ],
+    "disabled": false,
+    "id": 30008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32009.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 32009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32010.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 32010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32011.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 32011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32012.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 32012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32013.png",
+    "colors": [
+      "#c1f2e1",
+      "#c1f2ff"
+    ],
+    "disabled": false,
+    "id": 32013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32014.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 32014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32015.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 32015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 32,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/32/32016.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 32016,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 51,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51007.png",
+    "colors": [
+      "#da769a",
+      "#f4e3d5"
+    ],
+    "disabled": false,
+    "id": 51007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 51,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51008.png",
+    "colors": [
+      "#2e8b82",
+      "#f7e17f"
+    ],
+    "disabled": false,
+    "id": 51008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 51,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/51/51009.png",
+    "colors": [
+      "#426fc9",
+      "#a2a8ab"
+    ],
+    "disabled": false,
+    "id": 51009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54008.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 54008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54009.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 54009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54010.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 54010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54011.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 54011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54012.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 54012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54013.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 54013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54014.png",
+    "colors": [
+      "#85827f",
+      "#85827f"
+    ],
+    "disabled": false,
+    "id": 54014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 54,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/54/54015.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 54015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[
+  {
+    "championId": 53,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53008.png",
+    "colors": [
+      "#dfc764",
+      "#ad3333"
+    ],
+    "disabled": false,
+    "id": 53008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 53,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53009.png",
+    "colors": [
+      "#dfc764",
+      "#446188"
+    ],
+    "disabled": false,
+    "id": 53009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 53,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/53/53010.png",
+    "colors": [
+      "#9c9c9c",
+      "#585858"
+    ],
+    "disabled": false,
+    "id": 53010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57008.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 57008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57009.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 57009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57010.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 57010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57011.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 57011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57012.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 57012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57013.png",
+    "colors": [
+      "#eb90e6",
+      "#eb90e6"
+    ],
+    "disabled": false,
+    "id": 57013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57014.png",
+    "colors": [
+      "#b6e084",
+      "#b6e084"
+    ],
+    "disabled": false,
+    "id": 57014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 57,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/57/57015.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 57015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 69,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/69/69005.png",
+    "colors": [
+      "#323a31",
+      "#b37740"
+    ],
+    "disabled": false,
+    "id": 69005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 69,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/69/69006.png",
+    "colors": [
+      "#94cbee",
+      "#243f4b"
+    ],
+    "disabled": false,
+    "id": 69006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 69,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/69/69007.png",
+    "colors": [
+      "#df6c2f",
+      "#39111e"
+    ],
+    "disabled": false,
+    "id": 69007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 64,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/64/64007.png",
+    "colors": [
+      "#201f20",
+      "#f9cd16"
+    ],
+    "disabled": false,
+    "id": 64007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 64,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/64/64008.png",
+    "colors": [
+      "#516da4",
+      "#bfe7e8"
+    ],
+    "disabled": false,
+    "id": 64008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 64,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/64/64009.png",
+    "colors": [
+      "#f6e669",
+      "#3b3a41"
+    ],
+    "disabled": false,
+    "id": 64009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 67,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67007.png",
+    "colors": [
+      "#677117",
+      "#26360d"
+    ],
+    "disabled": false,
+    "id": 67007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 67,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67008.png",
+    "colors": [
+      "#b21b27",
+      "#59182a"
+    ],
+    "disabled": false,
+    "id": 67008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 67,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/67/67009.png",
+    "colors": [
+      "#bce5e6",
+      "#484961"
+    ],
+    "disabled": false,
+    "id": 67009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78008.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 78008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78009.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 78009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78010.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 78010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78011.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 78011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78012.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 78012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 78,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/78/78013.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 78013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 75,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75007.png",
+    "colors": [
+      "#6f1819",
+      "#252c4c"
+    ],
+    "disabled": false,
+    "id": 75007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 75,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75008.png",
+    "colors": [
+      "#388f25",
+      "#3e2245"
+    ],
+    "disabled": false,
+    "id": 75008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 75,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/75/75009.png",
+    "colors": [
+      "#4ab8c2",
+      "#535381"
+    ],
+    "disabled": false,
+    "id": 75009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 86,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/86/86007.png",
+    "colors": [
+      "#a12c2b",
+      "#321e42"
+    ],
+    "disabled": false,
+    "id": 86007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 86,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/86/86008.png",
+    "colors": [
+      "#e2b105",
+      "#502d5f"
+    ],
+    "disabled": false,
+    "id": 86008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 86,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/86/86009.png",
+    "colors": [
+      "#abc4fa",
+      "#2f556a"
+    ],
+    "disabled": false,
+    "id": 86009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81010.png",
+    "colors": [
+      "#5f432b",
+      "#5f432b"
+    ],
+    "disabled": false,
+    "id": 81010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81011.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 81011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81012.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 81012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81013.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 81013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81014.png",
+    "colors": [
+      "#5df1ff",
+      "#5df1ff"
+    ],
+    "disabled": false,
+    "id": 81014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81015.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 81015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81016.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 81016,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 81,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/81/81017.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 81017,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80009.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 80009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80010.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 80010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80011.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 80011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80012.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 80012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80013.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 80013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80014.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 80014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 80,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/80/80015.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 80015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92008.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 92008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92009.png",
+    "colors": [
+      "#85827f",
+      "#85827f"
+    ],
+    "disabled": false,
+    "id": 92009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92010.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 92010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92011.png",
+    "colors": [
+      "#ff3cff",
+      "#ff3cff"
+    ],
+    "disabled": false,
+    "id": 92011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92012.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 92012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92013.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 92013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92014.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 92014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 92,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/92/92015.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 92015,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 89,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/89/89005.png",
+    "colors": [
+      "#d97576",
+      "#5a2365"
+    ],
+    "disabled": false,
+    "id": 89005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 89,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/89/89006.png",
+    "colors": [
+      "#229579",
+      "#491a56"
+    ],
+    "disabled": false,
+    "id": 89006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 89,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/89/89007.png",
+    "colors": [
+      "#e29500",
+      "#dd3c3b"
+    ],
+    "disabled": false,
+    "id": 89007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103008.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 103008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103009.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 103009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103010.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 103010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103011.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 103011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103012.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 103012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 103,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/103/103013.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 103013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98007.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 98007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98008.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 98008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98009.png",
+    "colors": [
+      "#54209b",
+      "#54209b"
+    ],
+    "disabled": false,
+    "id": 98009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98010.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 98010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98011.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 98011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98012.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 98012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98013.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 98013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 98,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/98/98014.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 98014,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 105,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105005.png",
+    "colors": [
+      "#f9e330",
+      "#e6b427"
+    ],
+    "disabled": false,
+    "id": 105005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 105,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105006.png",
+    "colors": [
+      "#78688a",
+      "#23325d"
+    ],
+    "disabled": false,
+    "id": 105006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 105,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/105/105007.png",
+    "colors": [
+      "#d97aaf",
+      "#97192c"
+    ],
+    "disabled": false,
+    "id": 105007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114006.png",
+    "colors": [
+      "#9f4a25",
+      "#9f4a25"
+    ],
+    "disabled": false,
+    "id": 114006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114007.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 114007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114008.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 114008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114009.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 114009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114010.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 114010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114011.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 114011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114012.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 114012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 114,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/114/114013.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 114013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122005.png",
+    "colors": [
+      "#40464a",
+      "#b3a35a"
+    ],
+    "disabled": false,
+    "id": 122005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122006.png",
+    "colors": [
+      "#b58d42",
+      "#756c60"
+    ],
+    "disabled": false,
+    "id": 122006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122007.png",
+    "colors": [
+      "#a53522",
+      "#939ea6"
+    ],
+    "disabled": false,
+    "id": 122007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": true,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 1473137475000,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122009.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 122009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122010.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 122010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122011.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 122011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122012.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 122012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 122,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/122/122013.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 122013,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131004.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 131004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131005.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 131005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131006.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 131006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131007.png",
+    "colors": [
+      "#73bfbe",
+      "#73bfbe"
+    ],
+    "disabled": false,
+    "id": 131007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131008.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 131008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131009.png",
+    "colors": [
+      "#b6e084",
+      "#b6e084"
+    ],
+    "disabled": false,
+    "id": 131009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 131,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/131/131010.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 131010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 154,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/154/154003.png",
+    "colors": [
+      "#e9b448",
+      "#e98f46"
+    ],
+    "disabled": false,
+    "id": 154003,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 154,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/154/154004.png",
+    "colors": [
+      "#e49cb8",
+      "#b05f84"
+    ],
+    "disabled": false,
+    "id": 154004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 154,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/154/154005.png",
+    "colors": [
+      "#ffe37f",
+      "#e8bc2a"
+    ],
+    "disabled": false,
+    "id": 154005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 157,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157004.png",
+    "colors": [
+      "#002b83",
+      "#aa5500"
+    ],
+    "disabled": false,
+    "id": 157004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 157,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157005.png",
+    "colors": [
+      "#797acf",
+      "#e6ce13"
+    ],
+    "disabled": false,
+    "id": 157005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 157,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157006.png",
+    "colors": [
+      "#752505",
+      "#2e9c5c"
+    ],
+    "disabled": false,
+    "id": 157006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 157,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157007.png",
+    "colors": [
+      "#00aa7f",
+      "#550000"
+    ],
+    "disabled": false,
+    "id": 157007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 157,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157008.png",
+    "colors": [
+      "#030635",
+      "#d2d894"
+    ],
+    "disabled": false,
+    "id": 157008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150005.png",
+    "colors": [
+      "#2756ce",
+      "#2756ce"
+    ],
+    "disabled": false,
+    "id": 150005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150006.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 150006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150007.png",
+    "colors": [
+      "#ffee59",
+      "#ffee59"
+    ],
+    "disabled": false,
+    "id": 150007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150008.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 150008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150009.png",
+    "colors": [
+      "#54209b",
+      "#54209b"
+    ],
+    "disabled": false,
+    "id": 150009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150010.png",
+    "colors": [
+      "#b6e084",
+      "#b6e084"
+    ],
+    "disabled": false,
+    "id": 150010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150011.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 150011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 150,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/150/150012.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 150012,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 432,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432002.png",
+    "colors": [
+      "#f7963f",
+      "#701e1e"
+    ],
+    "disabled": false,
+    "id": 432002,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 432,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432003.png",
+    "colors": [
+      "#447164",
+      "#262c35"
+    ],
+    "disabled": false,
+    "id": 432003,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 432,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/432/432004.png",
+    "colors": [
+      "#3f4caf",
+      "#0d124a"
+    ],
+    "disabled": false,
+    "id": 432004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201004.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 201004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201005.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 201005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201006.png",
+    "colors": [
+      "#ffee59",
+      "#ffef59"
+    ],
+    "disabled": false,
+    "id": 201006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201007.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 201007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201008.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 201008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 201,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/201/201009.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 201009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222005.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 222005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222006.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 222006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222007.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 222007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222008.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 222008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222009.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 222009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222010.png",
+    "colors": [
+      "#9c68d7",
+      "#9c68d7"
+    ],
+    "disabled": false,
+    "id": 222010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 222,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/222/222011.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 222011,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238004.png",
+    "colors": [
+      "#b768c7",
+      "#591a61"
+    ],
+    "disabled": false,
+    "id": 238004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238005.png",
+    "colors": [
+      "#e3c425",
+      "#552121"
+    ],
+    "disabled": false,
+    "id": 238005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238006.png",
+    "colors": [
+      "#5bbcf0",
+      "#151a61"
+    ],
+    "disabled": false,
+    "id": 238006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238007.png",
+    "colors": [
+      "#b9172c",
+      "#320808"
+    ],
+    "disabled": false,
+    "id": 238007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238008.png",
+    "colors": [
+      "#5c52e5",
+      "#132151"
+    ],
+    "disabled": false,
+    "id": 238008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 238,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/238/238009.png",
+    "colors": [
+      "#2fd482",
+      "#0c1e17"
+    ],
+    "disabled": false,
+    "id": 238009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 236,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236003.png",
+    "colors": [
+      "#f5ce2c",
+      "#e39603"
+    ],
+    "disabled": false,
+    "id": 236003,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 236,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236004.png",
+    "colors": [
+      "#cb3e38",
+      "#4e131c"
+    ],
+    "disabled": false,
+    "id": 236004,
+    "lastSelected": true,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": true,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 1475506393000,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 236,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/236/236005.png",
+    "colors": [
+      "#309df0",
+      "#2542a1"
+    ],
+    "disabled": false,
+    "id": 236005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 254,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/254/254006.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 254006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 254,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/254/254007.png",
+    "colors": [
+      "#6abbee",
+      "#6abbee"
+    ],
+    "disabled": false,
+    "id": 254007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 254,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/254/254008.png",
+    "colors": [
+      "#d33528",
+      "#d33528"
+    ],
+    "disabled": false,
+    "id": 254008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 254,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/254/254009.png",
+    "colors": [
+      "#2da130",
+      "#2da130"
+    ],
+    "disabled": false,
+    "id": 254009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 254,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/254/254010.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 254010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+[
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245004.png",
+    "colors": [
+      "#54209b",
+      "#54209b"
+    ],
+    "disabled": false,
+    "id": 245004,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245005.png",
+    "colors": [
+      "#df9117",
+      "#df9117"
+    ],
+    "disabled": false,
+    "id": 245005,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245006.png",
+    "colors": [
+      "#27211c",
+      "#27211c"
+    ],
+    "disabled": false,
+    "id": 245006,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245007.png",
+    "colors": [
+      "#ded6b0",
+      "#ded6b0"
+    ],
+    "disabled": false,
+    "id": 245007,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245008.png",
+    "colors": [
+      "#ecf9f8",
+      "#ecf9f8"
+    ],
+    "disabled": false,
+    "id": 245008,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245009.png",
+    "colors": [
+      "#b6e084",
+      "#b6e084"
+    ],
+    "disabled": false,
+    "id": 245009,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  },
+  {
+    "championId": 245,
+    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/245/245010.png",
+    "colors": [
+      "#e58ba5",
+      "#e58ba5"
+    ],
+    "disabled": false,
+    "id": 245010,
+    "lastSelected": false,
+    "name": "",
+    "ownership": {
+      "freeToPlayReward": false,
+      "owned": false,
+      "rental": {
+        "endDate": 0,
+        "purchaseDate": 0,
+        "rented": false,
+        "winCountRemaining": 0
+      }
+    },
+    "stillObtainable": true
+  }
+]
+
+[]
+
+[]
+
+[]
+
+[]
+
+Annie Hoa Hậu
+
+Annie Công Nghệ
+
+Galio Công Nghệ
+
+Twisted Fate Bồi cơ
+
+Xin Zhao Hoàng Gia
+
+Urgot Cỗ Máy Chiến Đấu
+
+Vladimir Du Côn
+
+Kayle Thiên Sứ Công Nghệ
+
+Riot Kayle
+
+Sion Man Di
+
+Sivir Công Chúa Chiến Binh
+
+Sivir Thợ Săn
+
+Sivir Tướng Cướp
+
+Riot Girl Tristana
+
+Tristana Hỏa Tiễn
+
+Tristana Luyện Rồng
+
+Nunu Hủy Diệt
+
+Tryndamere Quốc Vương
+
+SSW Singed
+
+Zilean Hoang Mạc Shurima
+
+Quý Ông Cho'Gath
+
+Cho'Gath Hồ Lốc-nét
+
+Azir Thần Mộ
+
+Amumu Pha-ra-ông
+
+Amumu Suýt Hoa Vương 
+
+Vua Rammus
+
+Kassadin Biển Sâu
+
+Irelia Sát Thủ
+
+Dr. Mundo Độc Dược
+
+Taric Hồng Ngọc
+
+Caitlyn Cảnh Sát Trưởng
+
+Trọng Tài Katarina
+
+Blitzcrank Trùm Phụ
+
+Renekton Ngân Hà
+
+Renekton Cao Bồi
+
+Maokai Vinh Quang
+
+Nocturne Hư Không
+
+Brand Du Côn
+
+Orianna Thép Gai
+
+Lee Sin Quyền Thái
+
+SKT T1 Lee Sin
+
+Vayne Đồ Long
+
+Vaynelentine
+
+Nidalee Pha-ra-ông
+
+Udyr Tứ Linh Vệ Hồn
+
+Poppy Noxus
+
+Poppy Chiến Thần
+
+Skarner Cổ Ngữ
+
+Heimerdinger Người Tuyết
+
+Ezreal Băng Giá
+
+Ezreal Át Bích
+
+Ezreal Giả Lập
+
+Graves Tiệc Bể Bơi
+
+Fizz Lãnh Nguyên
+
+Draven Thợ Săn Quái Thú
+
+Hecarim Kị Sĩ Máu
+
+Zyra Hỏa Mộc
+
+Diana Địa Ngục
+
+Kalista Huyết Nguyệt
+
+Jinx Pháo Hoa
+
+Tahm Kench Vua Đầu Bếp
+
+Annie Hoa Hậu
+
+Annie Công Nghệ
+
+Galio Công Nghệ
+
+Twisted Fate Bồi cơ
+
+Xin Zhao Hoàng Gia
+
+Urgot Cỗ Máy Chiến Đấu
+
+Vladimir Du Côn
+
+Kayle Thiên Sứ Công Nghệ
+
+Riot Kayle
+
+Sion Man Di
+
+Sivir Công Chúa Chiến Binh
+
+Sivir Thợ Săn
+
+Sivir Tướng Cướp
+
+Riot Girl Tristana
+
+Tristana Hỏa Tiễn
+
+Tristana Luyện Rồng
+
+Nunu Hủy Diệt
+
+Tryndamere Quốc Vương
+
+Skin Đa Sắc
+
+SSW Singed
+
+Zilean Hoang Mạc Shurima
+
+Quý Ông Cho'Gath
+
+Cho'Gath Hồ Lốc-nét
+
+Azir Thần Mộ
+
+Amumu Pha-ra-ông
+
+Amumu Suýt Hoa Vương 
+
+Vua Rammus
+
+Kassadin Biển Sâu
+
+Irelia Sát Thủ
+
+Dr. Mundo Độc Dược
+
+Taric Hồng Ngọc
+
+Caitlyn Cảnh Sát Trưởng
+
+Trọng Tài Katarina
+
+Blitzcrank Trùm Phụ
+
+Renekton Ngân Hà
+
+Renekton Cao Bồi
+
+Maokai Vinh Quang
+
+Nocturne Hư Không
+
+Brand Du Côn
+
+Orianna Thép Gai
+
+Lee Sin Quyền Thái
+
+SKT T1 Lee Sin
+
+Vayne Đồ Long
+
+Vaynelentine
+
+Nidalee Pha-ra-ông
+
+Udyr Tứ Linh Vệ Hồn
+
+Poppy Noxus
+
+Poppy Chiến Thần
+
+Skarner Cổ Ngữ
+
+Heimerdinger Người Tuyết
+
+Ezreal Băng Giá
+
+Ezreal Át Bích
+
+Ezreal Giả Lập
+
+Graves Tiệc Bể Bơi
+
+Fizz Lãnh Nguyên
+
+Draven Thợ Săn Quái Thú
+
+Skin Đa Sắc
+
+Hecarim Kị Sĩ Máu
+
+Zyra Hỏa Mộc
+
+Diana Địa Ngục
+
+Kalista Huyết Nguyệt
+
+Jinx Pháo Hoa
+
+Tahm Kench Vua Đầu Bếp
+
+Skin Đa Sắc
+
+Annie ở Xứ Thần Tiên
+
+Annie Lửa Băng
+
+Xin Zhao Biệt Kích
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Xin Zhao Đồ Long
+
+Riot Kayle
+
+Master Yi Người Được Chọn
+
+Samurai Yi
+
+Sivir Thợ Săn
+
+Sivir Bão Tuyết
+
+Sivir Vinh Quang
+
+Warwick Nanh Lửa
+
+Tryndamere Quỷ Kiếm
+
+Jax Giữ Đền
+
+Vua Rammus
+
+Gangplank Đặc Nhiệm
+
+Gangplank Thuyền Trưởng
+
+Malphite Máy Móc
+
+Blitzcrank Đấm Bốc
+
+Jarvan IV Giáp Đen
+
+Renekton Huyết Nộ
+
+Maokai Vinh Quang
+
+Brand Tận Thế
+
+Brand Thây Ma
+
+Ngộ Không Dung Nham
+
+Lee Tiểu Long
+
+Lee Sin Quyền Thái
+
+Nidalee Thợ Săn
+
+Poppy Thợ Rèn
+
+Garen Huyết Kiếm
+
+Ezreal Băng Giá
+
+Riven Long Kiếm
+
+Talon Long Kiếm
+
+Xerath Cổ Ngữ
+
+Lux Vệ Binh Tinh Tú
+
+Varus Cung Thủ Thần Tốc
+
+Volibear Đô Vật Sấm Sét
+
+Rengar Thợ Săn Bóng Đêm
+
+Hecarim Giả Lập
+
+Thresh Huyết Nguyệt
+
+Quinn Phượng Hoàng
+
+Syndra Công Lí
+
+Yasuo Huyết Nguyệt
+
+Vel'Koz Cỗ Máy Chiến Đấu
+
+Kalista Huyết Nguyệt
+
+Jinx Pháo Hoa
+
+Sĩ Quan Vi
+
+Ekko Bão Cát
+
+Annie ở Xứ Thần Tiên
+
+Annie Lửa Băng
+
+Xin Zhao Biệt Kích
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Skin Đa Sắc
+
+Xin Zhao Đồ Long
+
+Riot Kayle
+
+Master Yi Người Được Chọn
+
+Samurai Yi
+
+Sivir Thợ Săn
+
+Sivir Bão Tuyết
+
+Sivir Vinh Quang
+
+Warwick Nanh Lửa
+
+Tryndamere Quỷ Kiếm
+
+Jax Giữ Đền
+
+Vua Rammus
+
+Gangplank Đặc Nhiệm
+
+Gangplank Thuyền Trưởng
+
+Malphite Máy Móc
+
+Blitzcrank Đấm Bốc
+
+Jarvan IV Giáp Đen
+
+Renekton Huyết Nộ
+
+Maokai Vinh Quang
+
+Brand Tận Thế
+
+Brand Thây Ma
+
+Ngộ Không Dung Nham
+
+Lee Tiểu Long
+
+Lee Sin Quyền Thái
+
+Nidalee Thợ Săn
+
+Poppy Thợ Rèn
+
+Garen Huyết Kiếm
+
+Ezreal Băng Giá
+
+Riven Long Kiếm
+
+Talon Long Kiếm
+
+Xerath Cổ Ngữ
+
+Lux Vệ Binh Tinh Tú
+
+Varus Cung Thủ Thần Tốc
+
+Volibear Đô Vật Sấm Sét
+
+Rengar Thợ Săn Bóng Đêm
+
+Hecarim Giả Lập
+
+Thresh Huyết Nguyệt
+
+Quinn Phượng Hoàng
+
+Syndra Công Lí
+
+Yasuo Huyết Nguyệt
+
+Vel'Koz Cỗ Máy Chiến Đấu
+
+Kalista Huyết Nguyệt
+
+Jinx Pháo Hoa
+
+Sĩ Quan Vi
+
+Ekko Bão Cát
+
